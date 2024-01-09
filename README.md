@@ -6,14 +6,14 @@ This GitHub repository is dedicated to Model-Based Design tasks as part of the I
 
 ## Repository Structure
 
-### /Task1
-This directory contains the files for Task 1.
+### /Topic1
+This directory contains the tasks for Topic 1.
 
-### /Task2
-This directory contains the files for Task 2.
+### /Topic2
+This directory contains the files for Topic 2.
 
-### /Task3
-This directory contains the files for Task 3.
+### /Topic3
+This directory contains the files for Topic 3.
 
 ### ...
 
